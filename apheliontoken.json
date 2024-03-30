@@ -1,0 +1,16 @@
+{
+  "name": "Aphelion LC",
+  "symbol": "APHE",
+  "description": "A currency for Aphelion Last Chaos Server",
+  "image": "https://raw.githubusercontent.com/AphelionLC/crypto/main/icon-removebg-preview.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AphelionLC/crypto/main/icon-removebg-preview.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "currency"
+  }
+}
